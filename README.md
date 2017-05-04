@@ -8,4 +8,5 @@ This is an util to generate a shuffled array, with deterministic randomness prov
 > shuffle([1, 3, 2], 3)
 [ 2, 3, 1 ]
 > shuffle([1, 3, 2], 4)
+[ 1, 3, 2 ]
 ```
