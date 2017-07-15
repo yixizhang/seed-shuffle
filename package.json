@@ -1,0 +1,19 @@
+{
+  "name": "seed-shuffle",
+  "version": "1.0.0",
+  "description": "util to generate a shuffled array, with deterministic randomness provided by the seed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yixizhang/seed-shuffle.git"
+  },
+  "author": "Yixi Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yixizhang/seed-shuffle/issues"
+  },
+  "homepage": "https://github.com/yixizhang/seed-shuffle#readme"
+}
